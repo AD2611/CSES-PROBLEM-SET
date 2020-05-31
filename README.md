@@ -1,2 +1,2 @@
 # CSES-PROBLEM-SET
-Solution of the preoblems from cses
+Solution of the problems from cses
